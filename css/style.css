@@ -1,0 +1,73 @@
+.avater{
+    width: 25%;
+    height: 25%;
+}
+img{
+    width: 10%;
+    border-radius: 100%;
+}
+hr{
+    margin-top:150px;
+    margin-bottom:50px;
+}
+h6{
+    font-weight: bold;
+}
+.sajin{
+    width: 10%;
+    height: 10%;
+    float: left;
+    margin-right: 10px;
+}
+body{
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    background-color: #E1F2FB;
+}
+
+.section{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.section-row{
+    margin-bottom: 50px;
+    text-align: left;
+}
+.org-section{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.org-section-row{
+    text-align: center;
+}
+.org-sajin{
+    float:none;
+}
+#slide{
+    width:10%;
+    height:20%;
+}
+/**************TOp section******************/
+.top{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.name{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+    font-family: 'Fondamento', cursive;
+}
+
+.carousel-image{
+    width:30%
+}
+.footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f3dfe3;
+}
